@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/My_Live_Templates.iml" filepath="$PROJECT_DIR$/.idea/modules/My_Live_Templates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/My_Live_Templates.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/My_Live_Templates.app.iml" />
+    </modules>
+  </component>
+</project>
